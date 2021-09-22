@@ -1,6 +1,6 @@
 # Data Validation Assignment 1  
 
-## [Assignment Here](/docs/README.md)
+## [Assignment Here](https://github.com/Saphall/Data-Validation-Assignments/tree/main/Day1/docs)
 
 > ## The file structure of this repo:
 ```
